@@ -1,23 +1,49 @@
-# people-card-manager
-Project Description:
-A simple C# WinForms application for managing a small local directory of people with photos. It stores person records in a plain text file ("Data.txt") using semicolon-delimited fields (ID;Name;Address) and saves photos in an "img" folder keyed by ID (ID.jpg). The app supports adding entries with image capture, searching by ID/Name/Address, listing all records in a DataGridView with thumbnails, and viewing a selected image in a larger dialog.
-#Features:
-- Add person: validate inputs, prevent duplicate IDs, save record to Data.txt, save selected picture as img/{ID}.jpg.
-- Search person: search by ID, Name, or Address; populate form fields and display associated image if present.
-- Show all: opens a modal form showing all records in a DataGridView with thumbnail images and click-to-zoom support.
-- Select picture: choose an image from disk and show it in the main PictureBox with safe copy semantics to avoid file locks.
-- Exit: closes the application.
-#Files (expected):
-- Form1.cs — main form implementation (contains UI logic shown in the provided code).
-- Form1.Designer.cs — WinForms designer file (expected controls: IDtextBox, NametextBox, AddresstextBox, pictureBox1, AddNew button, Find button, ShowAll button, SelectPicture button, Exit button, toolTip1).
-- Data.txt — runtime data file generated in application folder.
-- img/ — runtime directory for saved images (created automatically).
-#Usage:
-- Build the project as a typical C# WinForms application targeting .NET Framework or .NET.
-- Launch the app, fill ID, Name, Address, select a picture, then click "Add" to store the entry.
-- Use the search button to find entries by ID, Name, or Address.
-- Use "Show All" to browse all entries with thumbnails and click a thumbnail to view the full image.
-#Dependencies and Notes:
-- Framework: Windows Forms; compatible with .NET Framework or .NET that supports WinForms and System.Drawing.
-- I/O: Data stored in plain text ("Data.txt"); semicolon is the field separator. Fields containing semicolons are not supported by the current format.
-- Image handling: Images are copied into the img folder as JPEG to avoid file lock/handle issues. The code disposes temporary Image objects to reduce memory leaks.
+**Improving README**
+
+Okay, I need to craft an improved README. I'll follow best practices, using headings that follow developer formatting guidelines. This includes hierarchical sections, clear and concise text, and no extra details. The general structure should have a Title, Description, Features, Files, Usage, and Dependencies & Notes. I'll make sure to bold labels and key text, sticking to a simple, readable style without parentheses in headings. I’ll also include the Author & License sections, and remember to follow formatting rules. Let's get it done!
+### person-dir-winforms
+
+#### Description
+A simple, lightweight C# WinForms application to manage a local directory of people with photos. Records are stored in a plain text file using semicolon-delimited fields and photos are saved in an image folder keyed by ID. The app provides quick add/search/browse workflows with safe image handling to avoid file locks.
+
+---
+
+#### Features
+- **Add person**  
+  Validate inputs, prevent duplicate IDs, append a record to Data.txt, and save a copy of the selected photo as **img/{ID}.jpg**.
+
+- **Search person**  
+  Lookup by **ID**, **Name**, or **Address**; populate form fields and display the associated image when available.
+
+- **Show all**  
+  Open a modal that lists all records in a DataGridView with thumbnail images and click-to-zoom support.
+
+- **Select picture**  
+  Pick an image from disk and display it in the main PictureBox using a safe copy to avoid file locks.
+
+- **Exit**  
+  Close the application cleanly, disposing temporary image resources.
+
+---
+
+#### Files
+- **Form1.cs** — main form implementation containing UI logic and event handlers.  
+- **Form1.Designer.cs** — WinForms designer file; expected controls include **IDtextBox**, **NametextBox**, **AddresstextBox**, **pictureBox1**, **AddNew** button, **Find** button, **ShowAll** button, **SelectPicture** button, **Exit** button, **toolTip1**.  
+- **Data.txt** — runtime data file created in the application folder; each line is **ID;Name;Address**.  
+- **img/** — runtime directory for saved images; created automatically and contains files like **{ID}.jpg**.
+
+---
+
+#### Usage
+1. Build the project as a standard C# WinForms application targeting a .NET runtime that supports WinForms.  
+2. Launch the app.  
+3. To add an entry: fill **ID**, **Name**, **Address**, select a picture, then click **Add**.  
+4. To search: enter an **ID**, **Name**, or **Address** and click **Find**.  
+5. To browse all entries: click **Show All**, then click any thumbnail to view the full image.
+
+---
+
+#### Dependencies and Notes
+- **Framework**: Windows Forms; compatible with .NET Framework or .NET versions that support WinForms and System.Drawing.  
+- **Data format**: Records use semicolon (;) as field separator. Fields containing semicolons are not supported. Consider migrating to CSV or JSON for greater robustness.  
+- **Image handling**: Images are saved as JPEG in the **img/** folder after creating an in-memory copy to avoid locking the original file. Temporary Image objects are disposed to reduce memory leaks.  
