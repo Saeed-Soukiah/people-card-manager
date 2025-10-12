@@ -1,0 +1,16 @@
+C:\Users\Saeed Soukiah\Documents\Visual Studio\People Card Manager\bin\Release\net8.0-windows\people_card_manager.exe
+C:\Users\Saeed Soukiah\Documents\Visual Studio\People Card Manager\bin\Release\net8.0-windows\people_card_manager.deps.json
+C:\Users\Saeed Soukiah\Documents\Visual Studio\People Card Manager\bin\Release\net8.0-windows\people_card_manager.runtimeconfig.json
+C:\Users\Saeed Soukiah\Documents\Visual Studio\People Card Manager\bin\Release\net8.0-windows\people_card_manager.dll
+C:\Users\Saeed Soukiah\Documents\Visual Studio\People Card Manager\bin\Release\net8.0-windows\people_card_manager.pdb
+C:\Users\Saeed Soukiah\Documents\Visual Studio\People Card Manager\obj\Release\net8.0-windows\test.Form1.resources
+C:\Users\Saeed Soukiah\Documents\Visual Studio\People Card Manager\obj\Release\net8.0-windows\people_card_manager.csproj.GenerateResource.cache
+C:\Users\Saeed Soukiah\Documents\Visual Studio\People Card Manager\obj\Release\net8.0-windows\people_card_manager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Saeed Soukiah\Documents\Visual Studio\People Card Manager\obj\Release\net8.0-windows\people_card_manager.AssemblyInfoInputs.cache
+C:\Users\Saeed Soukiah\Documents\Visual Studio\People Card Manager\obj\Release\net8.0-windows\people_card_manager.AssemblyInfo.cs
+C:\Users\Saeed Soukiah\Documents\Visual Studio\People Card Manager\obj\Release\net8.0-windows\people_card_manager.csproj.CoreCompileInputs.cache
+C:\Users\Saeed Soukiah\Documents\Visual Studio\People Card Manager\obj\Release\net8.0-windows\people_card_manager.dll
+C:\Users\Saeed Soukiah\Documents\Visual Studio\People Card Manager\obj\Release\net8.0-windows\refint\people_card_manager.dll
+C:\Users\Saeed Soukiah\Documents\Visual Studio\People Card Manager\obj\Release\net8.0-windows\people_card_manager.pdb
+C:\Users\Saeed Soukiah\Documents\Visual Studio\People Card Manager\obj\Release\net8.0-windows\people_card_manager.genruntimeconfig.cache
+C:\Users\Saeed Soukiah\Documents\Visual Studio\People Card Manager\obj\Release\net8.0-windows\ref\people_card_manager.dll

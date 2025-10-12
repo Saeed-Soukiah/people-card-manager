@@ -1,0 +1,16 @@
+C:\Users\Saeed Soukiah\Documents\Visual Studio\test\bin\Release\net8.0-windows\People Logger.exe
+C:\Users\Saeed Soukiah\Documents\Visual Studio\test\bin\Release\net8.0-windows\People Logger.deps.json
+C:\Users\Saeed Soukiah\Documents\Visual Studio\test\bin\Release\net8.0-windows\People Logger.runtimeconfig.json
+C:\Users\Saeed Soukiah\Documents\Visual Studio\test\bin\Release\net8.0-windows\People Logger.dll
+C:\Users\Saeed Soukiah\Documents\Visual Studio\test\bin\Release\net8.0-windows\People Logger.pdb
+C:\Users\Saeed Soukiah\Documents\Visual Studio\test\obj\Release\net8.0-windows\test.Form1.resources
+C:\Users\Saeed Soukiah\Documents\Visual Studio\test\obj\Release\net8.0-windows\People Logger.csproj.GenerateResource.cache
+C:\Users\Saeed Soukiah\Documents\Visual Studio\test\obj\Release\net8.0-windows\People Logger.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Saeed Soukiah\Documents\Visual Studio\test\obj\Release\net8.0-windows\People Logger.AssemblyInfoInputs.cache
+C:\Users\Saeed Soukiah\Documents\Visual Studio\test\obj\Release\net8.0-windows\People Logger.AssemblyInfo.cs
+C:\Users\Saeed Soukiah\Documents\Visual Studio\test\obj\Release\net8.0-windows\People Logger.csproj.CoreCompileInputs.cache
+C:\Users\Saeed Soukiah\Documents\Visual Studio\test\obj\Release\net8.0-windows\People Logger.dll
+C:\Users\Saeed Soukiah\Documents\Visual Studio\test\obj\Release\net8.0-windows\refint\People Logger.dll
+C:\Users\Saeed Soukiah\Documents\Visual Studio\test\obj\Release\net8.0-windows\People Logger.pdb
+C:\Users\Saeed Soukiah\Documents\Visual Studio\test\obj\Release\net8.0-windows\People Logger.genruntimeconfig.cache
+C:\Users\Saeed Soukiah\Documents\Visual Studio\test\obj\Release\net8.0-windows\ref\People Logger.dll

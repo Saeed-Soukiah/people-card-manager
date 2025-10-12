@@ -1,0 +1,16 @@
+C:\Users\Saeed Soukiah\Documents\Visual Studio\test\obj\Debug\net8.0-windows\test.Form1.resources
+C:\Users\Saeed Soukiah\Documents\Visual Studio\test\obj\Debug\net8.0-windows\test.csproj.GenerateResource.cache
+C:\Users\Saeed Soukiah\Documents\Visual Studio\test\obj\Debug\net8.0-windows\test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Saeed Soukiah\Documents\Visual Studio\test\obj\Debug\net8.0-windows\test.AssemblyInfoInputs.cache
+C:\Users\Saeed Soukiah\Documents\Visual Studio\test\obj\Debug\net8.0-windows\test.AssemblyInfo.cs
+C:\Users\Saeed Soukiah\Documents\Visual Studio\test\obj\Debug\net8.0-windows\test.csproj.CoreCompileInputs.cache
+C:\Users\Saeed Soukiah\Documents\Visual Studio\test\bin\Debug\net8.0-windows\test.exe
+C:\Users\Saeed Soukiah\Documents\Visual Studio\test\bin\Debug\net8.0-windows\test.deps.json
+C:\Users\Saeed Soukiah\Documents\Visual Studio\test\bin\Debug\net8.0-windows\test.runtimeconfig.json
+C:\Users\Saeed Soukiah\Documents\Visual Studio\test\bin\Debug\net8.0-windows\test.dll
+C:\Users\Saeed Soukiah\Documents\Visual Studio\test\bin\Debug\net8.0-windows\test.pdb
+C:\Users\Saeed Soukiah\Documents\Visual Studio\test\obj\Debug\net8.0-windows\test.dll
+C:\Users\Saeed Soukiah\Documents\Visual Studio\test\obj\Debug\net8.0-windows\refint\test.dll
+C:\Users\Saeed Soukiah\Documents\Visual Studio\test\obj\Debug\net8.0-windows\test.pdb
+C:\Users\Saeed Soukiah\Documents\Visual Studio\test\obj\Debug\net8.0-windows\test.genruntimeconfig.cache
+C:\Users\Saeed Soukiah\Documents\Visual Studio\test\obj\Debug\net8.0-windows\ref\test.dll

@@ -1,0 +1,6 @@
+6489;ssaa;cairo
+333;sss;qqq
+222;aaa;ssss
+4444;qqq;aaa
+666666;qqq;aaa
+333344;qqq;ww

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "people_card_manager/1.0.0": {
+        "runtime": {
+          "people_card_manager.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "people_card_manager/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

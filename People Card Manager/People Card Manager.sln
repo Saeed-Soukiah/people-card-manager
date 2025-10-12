@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36518.9
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "people_card_manager", "people_card_manager.csproj", "{C915515A-005F-4EC1-B28C-C6C12500BA7D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C915515A-005F-4EC1-B28C-C6C12500BA7D}.Debug|Any CPU.ActiveCfg = Release|Any CPU
+		{C915515A-005F-4EC1-B28C-C6C12500BA7D}.Debug|Any CPU.Build.0 = Release|Any CPU
+		{C915515A-005F-4EC1-B28C-C6C12500BA7D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C915515A-005F-4EC1-B28C-C6C12500BA7D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {489E1062-9E92-4365-82F8-2ACB111CC62C}
+	EndGlobalSection
+EndGlobal
