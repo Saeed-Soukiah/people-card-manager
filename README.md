@@ -1,7 +1,4 @@
-**Improving README**
-
-Okay, I need to craft an improved README. I'll follow best practices, using headings that follow developer formatting guidelines. This includes hierarchical sections, clear and concise text, and no extra details. The general structure should have a Title, Description, Features, Files, Usage, and Dependencies & Notes. I'll make sure to bold labels and key text, sticking to a simple, readable style without parentheses in headings. I’ll also include the Author & License sections, and remember to follow formatting rules. Let's get it done!
-### person-dir-winforms
+### People Card Manager
 
 #### Description
 A simple, lightweight C# WinForms application to manage a local directory of people with photos. Records are stored in a plain text file using semicolon-delimited fields and photos are saved in an image folder keyed by ID. The app provides quick add/search/browse workflows with safe image handling to avoid file locks.
